@@ -2,7 +2,7 @@
 
 Esse é um web app de lista de compras, onde a lista é salva localmente.
 
-## Available Scripts
+## Começando
 
 Para começar o projeto digite
 
